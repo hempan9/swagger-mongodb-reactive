@@ -1,0 +1,13 @@
+springdoc:
+  swagger-ui:
+    path: /swagger-ui.html
+  api-docs:
+    path: /api-docs
+
+
+mongo:
+  database:
+    uri: mongodb://localhost:27017
+    name: user
+
+

@@ -26,7 +26,7 @@ Run application:
 Once you have docker installed. Go to application root and run following command
 which will pull the images for maven, java21 and mongodb and run containers.
 
-    docker compose -d  up
+    docker compose up
 
 ### 3. Accessing the APIs
 You can access the swagger api documentation using following links once app is up.
